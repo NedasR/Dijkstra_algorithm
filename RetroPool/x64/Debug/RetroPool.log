@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\nedne\Desktop\games\Dijkstra's algorithm\RetroPool\main.cpp(165,17): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nedne\Desktop\games\Dijkstra's algorithm\RetroPool\main.cpp(166,17): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  RetroPool.vcxproj -> C:\Users\nedne\Desktop\games\Dijkstra's algorithm\x64\Debug\RetroPool.exe
